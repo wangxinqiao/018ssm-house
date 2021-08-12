@@ -18,7 +18,7 @@
 
 多用户：普通用户与管理员各自都能发布房源信息
 ````
-
+演示视频： [**点此查看** ](https://www.bilibili.com/video/BV1TU4y1t7JZ/)
 源码获取： [**点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=121)
 
 ## 技术栈
